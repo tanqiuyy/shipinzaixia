@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanqiuyy.github.io/shipinzaixia/sitemap.xml
